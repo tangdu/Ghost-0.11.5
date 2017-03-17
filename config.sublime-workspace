@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/nodejs/Nodejs.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())  ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tangdu/Library/Application Support/Sublime Text 3/Packages/nodejs/Nodejs.sublime-build",
+		"/Users/tangdu/Library/Application Support/Sublime Text 3/Packages/nodejs/Nodejs.sublime-settings",
+		"/Users/tangdu/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/tangdu/mygit/com.tdu.wmket/build.gradle",
+		"/Users/tangdu/mywork/gbiccspace/spider/org.wsp.framework.security.jpa/src/main/java/org/wsp/framework/security/jpa/autoconfigure/WebMvcSecurityJpaAutoConfiguration.java",
+		"/Users/tangdu/Documents/我的文档/remark.txt",
+		"/Users/tangdu/mystudy/studyspace/ipe/build.gradle",
+		"/Users/tangdu/git/framework/com.tdu.wmket/build/libs/com.tdu.wmket-1.0.0/WEB-INF/classes/db/migration/mysql/V_1.0.0_20160124__WmketDB_Initialize.sql",
+		"/Users/tangdu/mystudy/studyspace/mytest/build.gradle",
+		"/Users/tangdu/Downloads/react-native-0.21.0/build.gradle",
+		"/Users/tangdu/soft/apache-tomcat-6.0.43/webapps/model/WEB-INF/classes/db.properties",
+		"/Users/tangdu/soft/apache-tomcat-6.0.43/webapps/irs-tianjin/WEB-INF/classes/db.properties",
+		"/Users/tangdu/mystudy/sample/springboot-dubbo-server/build.gradle",
+		"/Users/tangdu/mystudy/sample/springboot-ssm/settings.gradle",
+		"/Users/tangdu/Documents/我的文档/untitled",
+		"/Users/tangdu/git/framework/com.tdu.wmket.report/src/main/resources/com/tdu/wmket/report/Tst.groovy",
+		"/Users/tangdu/Downloads/Nms/ext/version.properties",
+		"/Users/tangdu/Desktop/悦意园需求2.0",
+		"/Users/tangdu/Desktop/微信公众号-悦意",
+		"/Users/tangdu/mywork/projectfiles/阳光保险信用风险管理/系统文档/阳光保险/local_model.sql",
+		"/Users/tangdu/mygit/com.tdu.spider/build.gradle",
+		"/Users/tangdu/mygit/com.tdu.wmket/src/main/resources/resources/resources/com/tdu/wmket/ProductInfoDistaMngWindow.js.bak",
+		"/Volumes/King/20151202/公司名称",
+		"/Users/tangdu/Desktop/规则管理需求",
+		"/private/var/folders/tn/zvt_pptn0l92zc7_m7yx59wr0000gn/T/BetterZip 临时文件夹.dMi61s/BetterZip 临时文件夹.vMawKp/META-INF/dwr.tld",
+		"/Users/tangdu/Downloads/hbmtemplates-201009201535/hbmtemplates/pojo/Pojo.ftl",
+		"/Users/tangdu/Downloads/hbmtemplates-201009201535/hbmtemplates/pojo/PojoFields.ftl",
+		"/Users/tangdu/Documents/我的文档/20151020/untitled",
+		"/Users/tangdu/Desktop/com.tdu.wmket/bin/resources/resources/com/tdu/wmket/ProductInfoMngMainPanel.js",
+		"/Users/tangdu/mygit/com.tdu.security/bin/META-INF/framework/contribution.json",
+		"/Users/tangdu/mywork/csspace/rirs-app/untitled",
+		"/Users/tangdu/mywork/csspace/rirs-app/build.gradle",
+		"/Volumes/King/build.xml",
+		"/Users/tangdu/mygit/com.tdu.taobao/build.gradle",
+		"/Volumes/King/hibernate.reveng.xml",
+		"/Users/tangdu/mywork/projectfiles/天津银行项目二期2014-5/tjbank/0001 风险报告子项目/30010 ETL/0002 开发脚本/SHELL/app/main.sh",
+		"/Users/tangdu/Documents/我的文档/https:::api.weixin.qq.com:cgi-bin:user:get?access_",
+		"/Users/tangdu/mywork/pocshspace/poc/fxjc/src/config/ibasconnection.properties",
+		"/Users/tangdu/mywork/pocshspace/poc/fxjc/src/config/dbconfig.properties",
+		"/Users/tangdu/soft/version.properties",
+		"/Users/tangdu/Desktop/悦意园需求",
+		"/Users/tangdu/soft/apache-tomcat-7.0.62/conf/context.xml",
+		"/Users/tangdu/mywork/projectfiles/杭州银行操作风险/untitled",
+		"/Users/tangdu/soft/eclipse-juno-work/configuration/org.eclipse.equinox.simpleconfigurator/bundles.info",
+		"/Users/tangdu/mywork/gbiccspace/spider/org.wsp.framework.web.ui/src/main/resources/templates/org/wsp/framework/web/ui/fragments/include/javascript.html",
+		"/Users/tangdu/Desktop/wemarket_BaseData.sql",
+		"/Users/tangdu/Desktop/华腾技术框架备注",
+		"/Volumes/KING TD/上海农商和/ssss",
+		"/Users/tangdu/mywork/poc2/20150817吴老师提供压力测试和技术资料/flowpower_2.6_pub_svn/flowpower_2.6_pub_svn/install/database/db-script/quartz/quartz_mysql.sql",
+		"/Users/tangdu/mywork/poc2/20150817吴老师提供压力测试和技术资料/flowpower_2.6_pub_svn/flowpower_2.6_pub_svn/install/database/db-script/quartz/quartz_mysql_innodb.sql",
+		"/Users/tangdu/mywork/poc2/20150817吴老师提供压力测试和技术资料/flowpower_2.6_pub_svn/flowpower_2.6_pub_svn/install/database/db-script/data/allData.sql",
+		"/Users/tangdu/Downloads/zrmd.doc",
+		"/Users/tangdu/Desktop/天津银行环境部署信息",
+		"/Users/tangdu/Downloads/hzb_or20150716/hz_rm.log_20150707",
+		"/Users/tangdu/Downloads/test.cookie",
+		"/Users/tangdu/soft/razorsql.txt",
+		"/Users/tangdu/mywork/workspace/ygspace/CustomerInfoServiceImpl.java",
+		"/Users/tangdu/Desktop/企业信用信息",
+		"/Users/tangdu/.m2/settings_td.xml",
+		"/Users/tangdu/.m2/settings.xml",
+		"/Users/tangdu/Library/Caches/TemporaryItems/Outlook Temp/logs/irs-error.log.2015-07-16",
+		"/Users/tangdu/Library/Caches/TemporaryItems/Outlook Temp/logs/irs-error.log.2015-07-17",
+		"/Users/tangdu/Library/Caches/TemporaryItems/Outlook Temp/logs/irs-error.log.2015-07-20",
+		"/Users/tangdu/Library/Caches/TemporaryItems/Outlook Temp/logs/irs-error.log.2015-07-19",
+		"/Users/tangdu/Library/Caches/TemporaryItems/Outlook Temp/logs/irs-error.log.2015-07-18",
+		"/Users/tangdu/Library/Caches/TemporaryItems/Outlook Temp/logs/irs-error.log.2015-07-21",
+		"/Users/tangdu/soft/redis-3.0.2/src/appendonly.aof",
+		"/Users/tangdu/mywork/gbiccspace/org.wsp.spider.impl.http/src/main/java/org/wsp/spider/impl/http/item/job/SimpleSpringBatchJobBuilder.java",
+		"/Users/tangdu/mywork/gbiccspace/app.spider/config/springbatch/http/custom/job/00000000-0000-0000-0000-000000000000.groovy",
+		"/Users/tangdu/git/boot/com.tdu.batch/src/main/resources/groovytemplates/Job2.tpl",
+		"/Users/tangdu/git/boot/com.tdu.batch/src/main/resources/groovytemplates/simple.tpl",
+		"/Users/tangdu/git/boot/com.tdu.batch/src/main/resources/Job.tpl",
+		"/Users/tangdu/Desktop/淘宝信息抓取分析",
+		"/Users/tangdu/Desktop/start_redis",
+		"/Users/tangdu/Desktop/ddd.html",
+		"/Users/tangdu/mystudy/gradlespace/com.tdu.framework/src/main/resources/application.properties",
+		"/Users/tangdu/soft/redis-3.0.2/redis.conf",
+		"/Users/tangdu/Downloads/spring-batch-master/spring-batch-samples/src/main/java/org/springframework/batch/sample/jsr352/JsrSampleItemProcessor.java",
+		"/Users/tangdu/soft/solr-5.2.1/server/solr/configsets/basic_configs/conf/schema.xml",
+		"/Users/tangdu/mystudy/javaspace/com.tdu.schedule/build.gradle",
+		"/Users/tangdu/soft/solr-5.2.1/server/contexts/solr-jetty-context.xml",
+		"/Users/tangdu/soft/solr-5.2.1/server/resources/jetty-logging.properties",
+		"/Users/tangdu/soft/solr-5.2.1/server/resources/log4j.properties",
+		"/untitled",
+		"/Users/tangdu/source/javascript/ext-6.0.0.415/build/classic/theme-triton/resources/theme-triton-all_01.css",
+		"/Users/tangdu/source/javascript/ext-6.0.0.415/build/examples/kitchensink/triton-en/resources/font-awesome/fonts/fontawesome-webfont.svg",
+		"/Users/tangdu/Desktop/如何提升你的能力？给年轻程序员的几条建议",
+		"/Users/tangdu/Downloads/ext-premium-6.0.0/ext-6.0.0/build/examples/classic/ticket-app/app.js",
+		"/Users/tangdu/source/javascript/ext-6.0.0.415/build/examples/kitchensink/index.html",
+		"/Users/tangdu/Downloads/ext-premium-6.0.0/ext-6.0.0/build/ext-all.js",
+		"/Users/tangdu/mystudy/gradlespace/com.tdu.webui/build.gradle",
+		"/Users/tangdu/temp/t_deposit_info.ctl",
+		"/Users/tangdu/soft/apache-tomcat-7.0.57/conf/server.xml",
+		"/Users/tangdu/source/javascript/ext-6.0.0.415/build/examples/classic/themes/themes.js",
+		"/Users/tangdu/soft/solr-5.2.1/bin/solr",
+		"/Users/tangdu/Desktop/20150605/db.properties",
+		"/Users/tangdu/Desktop/fancytree-master/demo/sample.js",
+		"/Users/tangdu/Desktop/fancytree-master/demo/sample-ext-table.html",
+		"/Users/tangdu/天津银行报表及二级分行cognos/tjbank20141121/package1.xml",
+		"/Users/tangdu/天津银行报表及二级分行cognos/tjbank_20141219_03/package1.xml",
+		"/Users/tangdu/Desktop/rms_user_info.txt",
+		"/Volumes/Macintosh HD/Users/tangdu/temp/imm.log",
+		"/Users/tangdu/temp/imm_error.log.2015-05-18",
+		"/Users/tangdu/Downloads/fl/index.html",
+		"/Users/tangdu/Downloads/fl/js/create.js",
+		"/Users/tangdu/Downloads/fl/js/draw.js",
+		"/Users/tangdu/mystudy/studyspace/ipe/src/main/webapp/resources/images/css/error.css",
+		"/Users/tangdu/mywork/gbiccspace/org.wsp.spider/config/application.properties",
+		"/Users/tangdu/mystudy/studyspace/ipe/src/main/webapp/resources/images/css/theme.css",
+		"/Users/tangdu/mystudy/studyspace/ipe/src/main/webapp/resources/images/css/common.css",
+		"/Users/tangdu/mywork/gbiccspace/org.wsp.spider/config/script/groovy/org/wsp/spider/batch/groovy/CacheableUrlItemReader.groovy",
+		"/Users/tangdu/source/javascript/ext-5.1.0/packages/ext-theme-crisp/build/resources/ext-theme-crisp-all-debug_01.css",
+		"/Users/tangdu/mywork/projectfiles/泰隆2015/需求",
+		"/Users/tangdu/Desktop/泰隆2015",
+		"/Users/tangdu/mywork/projectfiles/泰隆2015/张翔宇 008882@zjtlcb.com",
+		"/Users/tangdu/Downloads/jquery-notific8-master/demo/index.html",
+		"/Users/tangdu/mywork/workspace/tlspace/CIPS/WebContent/WEB-INF/classes/log4j.properties",
+		"/Users/tangdu/mystudy/studyspace/ipe/src/main/webapp/resources/mod/sys/resource/ResourceMainPanel.js",
+		"/Users/tangdu/mystudy/studyspace/ipe/src/main/webapp/resources/mod/sys/menu/MenuMainPanel.js",
+		"/Users/tangdu/source/javascript/ext-5.1.0/build/bootstrap.js",
+		"/Users/tangdu/Desktop/1.2.htm",
+		"/Users/tangdu/mystudy/studyspace/ipe/src/main/java/com/ipe/module/core/entity/Menu.java",
+		"/Users/tangdu/Downloads/metronic/theme/templates/admin/ui_colors.html",
+		"/Users/tangdu/Desktop/temp/databaseSchemaInstallerItem.html",
+		"/Users/tangdu/Desktop/temp/installer.html",
+		"/Users/tangdu/Downloads/metronic/theme/assets/admin/pages/scripts/table-ajax.js",
+		"/Users/tangdu/Downloads/metronic/theme/templates/admin/table_advanced.html",
+		"/Users/tangdu/Downloads/metronic/theme/assets/admin/pages/scripts/table-advanced.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_queryId",
+			"triggerCodeEditor",
+			"chenghonglin7",
+			"addProductInfo",
+			"processResources",
+			"workspace",
+			"wo'r'k's'pa'ce",
+			"hidden",
+			"state",
+			"%",
+			"not found",
+			"19:4",
+			"裂帛2015夏季蕾丝拼接裙",
+			"tabspidercategory",
+			"ext-w",
+			"All",
+			"trigger",
+			"search",
+			"theme",
+			"MenuTreePanel",
+			"           \n",
+			"sample_1",
+			"sample_1_wrapper",
+			"sample_2_wrapper",
+			"javascript",
+			"datatable_ajax",
+			"1395",
+			"page-content-wrapper",
+			"full",
+			"\" +",
+			"getTaskAssignee",
+			"dsArea",
+			"requestModelCalculate",
+			"modelCalculate",
+			"master"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 125.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"ConvertToUTF8 Instructions"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
